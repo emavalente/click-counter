@@ -1,0 +1,25 @@
+button {
+  width: 250px;
+  height: 80px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+  color: #ffffff;
+  border: 2px solid white;
+  border-radius: 5px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #e5e9df;
+  color: #141212;
+}
+
+.boton-clic {
+  background-color: #002ead;
+}
+
+.boton-reiniciar {
+  background-color: #5a01a7;
+}
